@@ -1,0 +1,232 @@
+ body {
+    background-color: #f9fafc;
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+ }
+
+/* #wrapper {
+    margin-left:0rem;
+    margin-right:0rem;
+    } */
+
+h3 {
+    margin-left: 0rem;
+    font-weight: 800;
+    font-size: 13pt;
+  }
+
+h4 {
+    margin-left: 0rem;
+    flex-direction: column;
+    text-align: left;
+    justify-content: flex-start;
+    font-weight: normal;
+    justify-content: space-between;
+    font-size: 15pt;
+}
+
+#hire {
+    font-weight: normal;
+    font-size: 15pt;
+    width: 90%;
+    margin: 19px;
+}
+
+input, button {
+    color: #f9fafc;
+    background-color: #000;
+    font-weight: normal;
+    border-radius: 115px;
+    border: none;
+    height: 13pt;
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 13px;
+}
+
+h2 {
+    padding-top: 7rem;
+    font-size: 25pt;
+}
+
+.container {
+    display:flex;
+}
+
+.verticalLine {
+    border-left: solid #adadb9;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 1rem;
+    /* padding-right: 4rem; */
+    /* margin-bottom: 3rem; */
+    position: relative;
+    font-size: 11pt;
+    /* width: 50%; */
+}
+
+span {
+    width: 50%;
+    max-height: 0%;
+    position: relative;
+}
+
+input, button {
+    color: #f9fafc;
+    background-color: #000;
+    font-weight: normal;
+    border-radius: 115px;
+    border: none;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    width: 90%;
+    height: 50px;
+    position: absolute;
+    margin: 19px;
+    font-size: 15pt;
+}
+
+
+@media only screen and (min-width:768px) {
+
+    #wrapper {
+        margin-left:0rem;
+        margin-right:0rem;
+        width: 992px;
+        }
+        
+    h3 {
+        float: left;
+        margin-left: 0rem;
+        font-weight: 800;
+        font-size: 13pt;
+      }
+    
+    h4 {
+        display: flex;
+        flex-direction: row;
+        font-weight: normal;
+        justify-content: space-between;
+        margin-left: 35%;
+        margin-right: 15px;
+        font-size: 15pt;
+        }
+
+    #hire {
+        display: flex;
+        flex-direction: row;
+        font-weight: normal;
+        margin-left: 46rem;
+        font-size: 15pt;
+        margin-top: 10px;
+        width: 2in;
+    }
+    
+    input, button {
+        color: #f9fafc;
+        background-color: #000;
+        font-weight: normal;
+        border-radius: 115px;
+        border: none;
+        height: 13pt;
+        width: 1in;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 13px;
+    }
+    
+    h2 {
+        padding-top: 3rem;
+        font-size: 20pt;
+        /* margin-left: -6rem; */
+    }
+    
+    .container {
+        display:flex;
+    }
+    
+    .verticalLine {
+        border-left: solid #adadb9;
+        display: flex;
+        justify-content: flex-start;
+        padding-left: 1rem;
+        padding-right: 4rem;
+        margin-bottom: 3rem;
+        position: relative;
+        font-size: 11pt;
+        width: 50%;
+    }
+    
+    span {
+        width: 50%;
+        max-height: 0%;
+        position: relative;
+    }
+    
+    #circle1 {
+        height: 350px;
+        width: 360px;
+        background-color: rgba(247, 136, 167, 0.6);
+        border-radius: 50%;
+        opacity: 1;
+        position: absolute;
+        right: -50%;
+        top: -8%;
+    }
+    
+    #circle2 {
+        height: 150px;
+        width: 150px;
+        background-color: rgba(207, 130, 213, 0.6);
+        border-radius: 50%;
+        opacity: 1;
+        position: absolute;
+        right: -73%;
+        top: 19%;
+    }
+    
+    #circle3 {
+        height: 200px;
+        width: 200px;
+        background-color: rgba(247, 193, 162, 0.7);
+        border-radius: 50%;
+        opacity: 1;
+        position: absolute;
+        right: -73%;
+        top: 70%;
+    }
+    
+        input, button {
+        color: #f9fafc;
+        background-color: #000;
+        font-weight: normal;
+        border-radius: 115px;
+        border: none;
+        display: flex;
+        flex-direction: row;
+        align-content: center;
+        width: 175px;
+        height: 50px;
+        position: absolute;
+        margin-top: 230px;
+        font-size: 15pt;
+        margin-left: 395px;
+    }
+
+    p {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+} */
+/* Font weight: normal, 800Colors: #f9fafc#69696a#000 */
+
+
+
